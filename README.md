@@ -3,28 +3,12 @@
 ## Table of Contents
 
 * [Description](#description)
-* [Dependencies](#dependencies)
 * [Installation](#installation)
 * [Built With](#built-with)
 
 ## Description
 
 This udagram application is a simple application that includes all the major components of a Full-Stack web application and I deployed it to a cloud service provider so that it is available to customers.
-
-### Dependencies
-
-```
-- Node v14.15.0 (LTS)
-
-- npm 6.14.8
-
-- AWS CLI v2
-
-- A RDS database running Postgres.
-
-- A S3 bucket for hosting uploaded pictures.
-
-```
 
 ### Installation
 
